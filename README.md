@@ -20,8 +20,8 @@ Udemy
 ### LearnGit
 * [Gitin5mins](http://classic.scottr.org/presentations/git-in-5-minutes/)
 ### MongoDB 
-[MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
+* [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
 ### Socket.io 
-[Socket.io Tutorial](https://www.tutorialspoint.com/socket.io/index.htm https://nodesource.com/blog/understanding-socketio/)
+* [Socket.io Tutorial](https://www.tutorialspoint.com/socket.io/index.htm https://nodesource.com/blog/understanding-socketio/)
 ### Redis
-[RedisTutorials](http://www.tutorialspoint.com/redis/)
+* [RedisTutorials](http://www.tutorialspoint.com/redis/)
